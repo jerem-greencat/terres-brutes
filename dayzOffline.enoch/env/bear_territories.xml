@@ -123,10 +123,4 @@
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11501.7" z="3413.33" r="150"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12330" z="2833.33" r="300"/>
     </territory>
-    <territory color="0000000001">
-        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="712.50" z="11881.42" r="300"/>
-        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11957.81" z="12178.41" r="300"/>
-        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12614.84" z="6717.43" r="150"/>
-        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7660.94" z="10818.57" r="300"/>
-    </territory>
 </territory-type>

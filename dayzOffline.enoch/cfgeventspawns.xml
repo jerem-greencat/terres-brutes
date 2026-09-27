@@ -1,103 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <eventposdef>
-	<!--SPAWN CONTAINER SAHKAL ROUGE -->
-	<event name="StaticContainerLockedRed">
-		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
-		<pos x="9954" z="3793" a="-18.00" /> <!-- GIREALTOW MILI -->
-		<pos x="8948" z="2043" a="99.00" /> <!-- RODZANICA -->
-		<pos x="7434" z="2607" a="-18.00" /> <!-- BAS DE MAP MILI -->
-		<pos x="577" z="1118" a="-36.00" /> <!-- DAMBOG -->
-		<pos x="8196" z="11041" a="80.00" /> <!-- KOLEM MILI -->
-		<pos x="2138" z="11241" a="-36.00" /> <!-- BIELAWA MILI -->
-		<pos x="11166" z="11374" a="45.00" /> <!-- GRABIN MILI -->
-		<pos x="9789" z="8598" a="-63.00" /> <!-- BOREK MILI -->
-		<pos x="6460" z="4694" a="45.00" /> <!-- NADBOR CMC -->
-		<pos x="9090" z="6683" a="45.00" /> <!-- LEMBORK MILI -->
-		<pos x="6349" z="11014" a="1.00" /> <!-- BRENA MILI -->
-	</event>
-	<!--SPAWN OLGA POLICE -->
-	<event name="StaticPoliceOlga">
-		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
-		<pos x="1447" z="9755" a="1.00" /> <!-- BIELAWA -->
-		<pos x="3678" z="11814" a="1.00" /> <!-- LUKOW -->
-		<pos x="6479" z="11336" a="1.00" /> <!-- BRENA -->
-		<pos x="8396" z="12188" a="1.00" /> <!-- KOLEMBRODY -->
-		<pos x="10688" z="10972" a="1.00" /> <!-- GRABIN -->
-		<pos x="11537" z="9417" a="1.00" /> <!-- SITNIK -->
-		<pos x="1589" z="7301" a="1.00" /> <!-- TOPOLIN -->
-		<pos x="9659" z="7175" a="1.00" /> <!-- KARLIN -->
-		<pos x="8478" z="8669" a="1.00" /> <!-- ZAPADISKO -->
-		<pos x="9272" z="4359" a="1.00" /> <!-- WRZESZCZ -->
-		<pos x="11010" z="826" a="1.00" /> <!-- DOLNIK -->
-	</event>
-	<!--SPAWN HELICO BLANC -->
-	<event name="StaticHeliCrashCiv">
-		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
-		<pos x="3552" z="11880" a="1.00" /> <!-- LUKOW -->
-		<pos x="8600" z="11995" a="1.00" /> <!-- KOLEMBRODY -->
-		<pos x="4296" z="9035" a="1.00" /> <!-- GLINISKA -->
-		<pos x="8892" z="6843" a="1.00" /> <!-- LEMBORK -->
-		<pos x="5785" z="4895" a="1.00" /> <!-- DREWNIKI -->
-		<pos x="3435" z="1851" a="1.00" /> <!-- POLANA -->
-		<pos x="10126" z="2537" a="1.00" /> <!-- WIDOK -->
-		<pos x="10832" z="4083" a="1.00" /> <!-- GIREALTOW -->
-		<pos x="9510" z="709" a="1.00" /> <!-- DOLNIK -->
-		<pos x="1627" z="3313" a="1.00" /> <!-- ZALESIE -->
-		<pos x="3255" z="4657" a="1.00" /> <!-- SARNOWEK -->
-	</event>
-	<!--TEST DROP-->
-	<event name="StaticDrop">
-		<zone smin="0" smax="0" dmin="1" dmax="1" r="20" />
-		<pos x="11632.9" z="4022.3" a="0" y="312.987" group="Drop_Gieraltow"/>
-		<pos x="2511.26" z="2000.52" a="0" y="545.494" group="Drop_Jezurow"/>
-		<pos x="4352.92" z="924.518" a="0" y="395.241" group="Drop_Tymbark"/>
-		<pos x="10317.7" z="161.829" a="0" y="352.655" group="Drop_Dolnik"/>
-		<pos x="5450.15" z="4403.83" a="0" y="363.94" group="Drop_Nadbor"/>
-		<pos x="12118.1" z="12332" a="0" y="252.532" group="Drop_Sowa"/>
-	</event>
-	<!--SPAWN AMBULANCE -->
-	<event name="StaticAmbulance">
-		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
-		<pos x="10897" z="3578" a="1.00" /> <!-- KONOPKI -->
-		<pos x="11670" z="8377" a="1.00" /> <!-- SITNIK -->
-		<pos x="2750" z="1874" a="1.00" /> <!-- POLANA -->
-		<pos x="2206" z="6080" a="1.00" /> <!-- SARNOWEK -->
-		<pos x="8566" z="12130" a="1.00" /> <!-- KOLEMBRODY -->
-		<pos x="1352" z="4837" a="1.00" /> <!-- ZALESIE -->
-		<pos x="4416" z="4389" a="1.00" /> <!-- HEDRYCOW -->
-		<pos x="9267" z="6717" a="1.00" /> <!-- LEMBORK -->
-		<pos x="10761" z="957" a="1.00" /> <!-- DOLNIK -->
-		<pos x="2114" z="11295" a="1.00" /> <!-- BIELAWA -->
-		<pos x="9079" z="2013" a="1.00" /> <!-- RODZANICA -->
-	</event>
-	<!--SPAWN DROP -->
-	<event name="DropTierUn">
-	    <zone smin="0" smax="0" dmin="1" dmax="1" r="20" />
-	    <pos x="6780.56" z="11003.6" a="0" y="169.172" group="DropTierUn_Brena"/>
-	    <pos x="10407.8" z="11362.2" a="0" y="170.876" group="DropTierUn_Grabin"/>
-	    <pos x="11337.7" z="10451.8" a="0" y="167.632" group="DropTierUn_Sitnik"/>
-	    <pos x="4287.76" z="11655.9" a="0" y="232.262" group="DropTierUn_Lukow"/>
-	    <pos x="1098.14" z="9429.18" a="0" y="283.197" group="DropTierUn_Bielawa"/>
-	</event> 
-	<!--SPAWN CRASH AVION-->
-	<event name="StaticAvionCrash">
-		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
-		<pos x="3214" z="10860" a="1.00" /> <!-- LUKOW -->
-		<pos x="8851" z="12058" a="1.00" /> <!-- KOLEMBRODY -->
-		<pos x="9980" z="9652" a="1.00" /> <!-- TARNOW -->
-		<pos x="12345" z="7288" a="1.00" /> <!-- SITNIK -->
-		<pos x="9176" z="9222" a="1.00" /> <!-- BOREK -->
-		<pos x="5798" z="8401" a="1.00" /> <!-- NIDEK -->
-		<pos x="3345" z="6240" a="1.00" /> <!-- ADAMOW -->
-		<pos x="976" z="4479" a="1.00" /> <!-- ZALESIE -->
-		<pos x="4450" z="3832" a="1.00" /> <!-- NADBOR -->
-		<pos x="9652" z="4266" a="1.00" /> <!-- WRZESZCZ -->
-		<pos x="12230" z="1743" a="1.00" /> <!-- KONOPKI -->
-		<pos x="1015" z="895" a="1.00" /> <!-- DUMBOG -->
-		<pos x="7619" z="5638" a="1.00" /> <!-- RADUNIN -->
-		<pos x="7464" z="2387" a="1.00" /> <!-- SUD -->
-		<pos x="10320" z="2611" a="1.00" /> <!-- WIDOK -->
-	</event>
     <event name="StaticHeliCrash">
 		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 		<pos x="11844.371094" z="6020.828613" a="357.697601" />
@@ -399,12 +301,12 @@
 		<pos x="7898" z="9809" />
 		<pos x="2067" z="11160" />
 		<pos x="6406" z="8170" />
-		<!-- <pos x="8112" z="8722" /> ZAPADLISKO -->
+		<pos x="8112" z="8722" />
 		<pos x="4607" z="6372" />
 		<pos x="8824" z="6629" />
-		<!-- <pos x="0865" z="5518" /> ZALESIE -->
-		<!-- <pos x="2492" z="5647" /> SARNOWECK -->
-		<!-- <pos x="3687" z="11807" /> LUKOW -->
+		<pos x="0865" z="5518" />
+		<pos x="2492" z="5647" />
+		<pos x="3687" z="11807" />
 		<pos x="5224" z="5586" />
 		<pos x="4500" z="4828" />
 		<pos x="9063" z="6634" />
@@ -414,19 +316,19 @@
 		<pos x="5635" z="3794" />
 		<pos x="7824" z="10089" />
 		<pos x="8134" z="10907" />
-		<!-- <pos x="3121" z="6812" /> ADAMOW -->
-		<!-- <pos x="1464" z="9745" /> BIELAWA -->
-		<!-- <pos x="5972" z="8068" /> NIDEK -->
+		<pos x="3121" z="6812" />
+		<pos x="1464" z="9745" />
+		<pos x="5972" z="8068" />
 		<pos x="9906" z="3807" />
 		<pos x="8910" z="2048" />
-		<!-- <pos x="9051" z="4398" /> WRZESZCZ -->
+		<pos x="9051" z="4398" />
 		<pos x="3345" z="2038" />
 		<pos x="7496" z="2542" />
-		<!-- <pos x="11474" z="4540" /> GIERALTOW -->
+		<pos x="11474" z="4540" />
 		<pos x="7344" z="2799" />
-		<!-- <pos x="10230" z="2172" /> WIDOK -->
+		<pos x="10230" z="2172" />
 		<pos x="11530" z="486" />
-		<!-- <pos x="11057" z="4261" /> GIERALTOW -->
+		<pos x="11057" z="4261" />
 		<pos x="5080" z="2137" />
 		<pos x="7340" z="2595" />
 		<pos x="4947" z="2143" />
@@ -571,7 +473,7 @@
 		<pos x="8156.579590" z="8717.940430" a="245.555588" />
 		<pos x="8409.924805" z="9832.762695" />
 		<pos x="8467.659180" z="10081.166016" a="314.962860" />
-		<pos x="8962.99" z="6578.49" a="308.632782" />
+		<pos x="8945.969727" z="6568.473633" a="308.632782" />
 		<pos x="9028.814453" z="4407.930664" />
 		<pos x="9808.286133" z="3801.685303" a="358.603821" />
 		<pos x="9948.848633" z="8478.275391" a="209.908218" />
@@ -692,29 +594,57 @@
 		<pos x="7288.063477" z="2947.33496" a="147.306595" />
 		<pos x="10253.083008" z="2127.03418" a="344.12796" />
 	</event>
-	<event name="VehicleTruckFactionBlackWolf">
-		<pos x="11033" z="9049" a="0" />
-	</event>
-	<event name="VehicleTruckFactionLaTaniere">
-		<pos x="1805" z="7664" a="0" />
-	</event>
-	<event name="VehicleTruckFactionLesSmisCroustillants">
-		<pos x="6316" z="6810" a="0" />
-	</event>
-	<event name="VehicleTruckFactionTHEDARK">
-		<pos x="2574" z="5526" a="0" />
-	</event>
-	<event name="VehicleTruckTeamCobra">
-		<pos x="12385" z="8813" a="0" />
-	</event>
-	<event name="VehicleTruckTeamBravta">
-		<pos x="3419" z="791" a="0" />
-	</event>
-	<event name="VehicleTruckTeamNightStalkers">
-		<pos x="11405" z="9077" a="0" />
-	</event>
-	<event name="VehicleTruckTeamTheLucky">
-		<pos x="5154" z="242" a="0" />
+	<event name="VehicleTruck01">
+		<pos x="8879.35" z="11067.37" a="42.67" />
+		<pos x="8425.82" z="11244.73" a="241.06" />
+		<pos x="3752.18" z="6335.84" a="294.36" />
+		<pos x="6383.05" z="3868.35" a="24.10" />
+		<pos x="6377.047" z="4695.276" a="138.404" />
+		<pos x="11492.96" z="7065.64" a="244.14" />
+		<pos x="4849.71" z="851.93" a="54.92" />
+		<pos x="8156.22" z="10859.54" a="270.99" />
+		<pos x="9036.96" z="6651.52" a="261.98" />
+		<pos x="1968.14" z="6678.64" a="0.00" />
+		<pos x="3127.70" z="12003.87" a="70.79" />
+		<pos x="4939.72" z="2085.53" a="300.04" />
+		<pos x="7646.60" z="2680.58" a="42.62" />
+		<pos x="11581.71" z="7098.02" a="59.91" />
+		<pos x="11362.39" z="9319.99" a="231.55" />
+		<pos x="10678.51" z="11116.66" a="19.84" />
+		<pos x="7247.76" z="2937.27" a="314.00" />
+		<pos x="9589.23" z="10765.92" a="4.75" />
+		<pos x="12099.68" z="972.14" a="260.80" />
+		<pos x="6179.05" z="9982.88" a="86.12" />
+		<pos x="1444.43" z="2719.39" a="119.53" />
+		<pos x="11574.92" z="374.01" a="177.83" />
+		<pos x="3841.30" z="11814.37" a="62.51" />
+		<pos x="916.88" z="5492.38" a="312.87" />
+		<pos x="1368.19" z="7995.36" a="315.03" />
+		<pos x="3150.81" z="7052.25" a="0.00" />
+		<pos x="9847.47" z="8554.33" a="278.83" />
+		<pos x="10641.09" z="6918.78" a="81.42" />
+		<pos x="5706.39" z="3754.03" a="79.21" />
+		<pos x="4861.78" z="7318.40" a="233.56" />
+		<pos x="11293.66" z="4236.22" a="129.92" />
+		<pos x="10999.64" z="1954.42" a="173.75" />
+		<pos x="10224.88" z="2191.93" a="309.35" />
+		<pos x="9050.77" z="5392.03" a="248.80" />
+		<pos x="11498.15" z="430.68" a="351.43" />
+		<pos x="5191.53" z="10497.92" a="326.54" />
+		<pos x="2563.16" z="5531.76" a="55.50" />
+		<pos x="7853.63" z="9816.80" a="34.73" />
+		<pos x="6272.36" z="6824.92" a="247.08" />
+		<pos x="11051.40" z="9026.12" a="314.93" />
+		<pos x="7825.79" z="5886.17" a="249.73" />
+		<pos x="9876.81" z="3784.16" a="6.56" />
+		<pos x="569.28" z="943.24" a="171.59" />
+		<pos x="1642.99" z="3721.38" a="62.90" />
+		<pos x="6416.27" z="8161.95" a="156.36" />
+		<pos x="5527.51" z="8727.95" a="87.20" />
+		<pos x="4433.10" z="6699.25" a="247.62" />
+		<pos x="4494.77" z="4809.65" a="285.88" />
+		<pos x="1964.88" z="9526.16" a="69.02" />
+		<pos x="1274.97" z="7666.59" a="342.12" />
 	</event>
 	<event name="VehicleBoat">
 		<pos x="736.904724" z="7630.322754" />
@@ -751,14 +681,6 @@
 		<pos x="4996.477" z="9020.883" a="0" y="175.492" group="Train_Mil_Gliniska"/>
 		<pos x="3267.044" z="8253.642" a="0" y="181.100" group="Train_Mil_Radacz"/>
 		<pos x="10026.365" z="8644.638" a="0" y="208.640" group="Train_Mil_Sitnik"/>
-	</event>
-	<event name="StaticMedicSituation">
-		<zone smin="0" smax="0" dmin="1" dmax="1" r="1" />
-		<pos x="9003.96" z="4814.97" a="0" y="335.899" group="StaticMedicSituation_Wrzeszcz"/>
-		<pos x="11289.2" z="2657.78" a="0" y="353.534" group="StaticMedicSituation_Kono"/>
-		<pos x="11702.8" z="7200.73" a="0" y="253.049" group="StaticMedicSituation_Sitnik"/>
-		<pos x="5627.38" z="6123.49" a="0" y="323.889" group="StaticMedicSituation_Nadbor"/>
-		<pos x="4210.61" z="5586.18" a="0" y="261.236" group="StaticMedicSituation_Muratyn"/>
 	</event>
 	<event name="StaticMilitaryConvoy">
 		<zone smin="0" smax="0" dmin="1" dmax="1" r="1" />
@@ -829,28 +751,4 @@
     <event name="AnimalRoeDeer" />
     <event name="AnimalWolf" />
     <event name="AnimalWildBoar" />
-	<event name="FactionTruck_F_47">
-		<pos x="11033" z="9049" a="0" /> <!-- Black Wolf -->
-	</event>
-	<event name="FactionTruck_F_49">
-		<pos x="1808" z="7673" a="0" /> <!-- La Tanière -->
-	</event>
-	<event name="FactionTruck_F_52">
-		<pos x="6316" z="6810" a="0" /> <!-- LesSemisCroustillants -->
-	</event>
-	<event name="FactionTruck_F_48">
-		<pos x="2574" z="5526" a="0" /> <!-- THE DARK -->
-	</event>
-	<event name="FactionTruck_T_29">
-		<pos x="12385" z="8813" a="0" /> <!-- Cobra -->
-	</event>
-	<event name="FactionTruck_T_27">
-		<pos x="3419" z="791" a="0" /> <!-- La Bratva -->
-	</event>
-	<event name="FactionTruck_T_31">
-		<pos x="11405" z="9077" a="0" /> <!-- Night Stalkers -->
-	</event>
-	<event name="FactionTruck_T_32">
-		<pos x="5154" z="242" a="0" /> <!-- The Lucky Bastard -->
-	</event>
 </eventposdef>
