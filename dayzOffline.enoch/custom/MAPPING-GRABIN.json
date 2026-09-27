@@ -1,0 +1,148 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                11021.7939453125,
+                176.18753051757813,
+                11292.3583984375
+            ],
+            "ypr": [
+                -72.00003814697266,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Wreck_offroad02_aban1",
+            "pos": [
+                11131.638671875,
+                175.93441772460938,
+                11425.07421875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Sawmill_Illuminanttower",
+            "pos": [
+                11204.205078125,
+                183.93231201171876,
+                11430.1767578125
+            ],
+            "ypr": [
+                131.92974853515626,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_wreck_truck01_aban1_orange",
+            "pos": [
+                11141.5908203125,
+                174.07000732421876,
+                11432.869140625
+            ],
+            "ypr": [
+                -53.99999237060547,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_Fortified_Nest_Watchtower",
+            "pos": [
+                11124.322265625,
+                176.16522216796876,
+                11384.8623046875
+            ],
+            "ypr": [
+                -52.21232223510742,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Moh",
+            "pos": [
+                11138.5556640625,
+                175.29994201660157,
+                11426.92578125
+            ],
+            "ypr": [
+                -54.00002670288086,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Table_Camp",
+            "pos": [
+                11129.888671875,
+                174.500244140625,
+                11392.26953125
+            ],
+            "ypr": [
+                -51.01325988769531,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Chair_Camp1",
+            "pos": [
+                11129.38671875,
+                174.59506225585938,
+                11393.4990234375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Shed_Open_Small_Complete",
+            "pos": [
+                11136.1416015625,
+                176.23135375976563,
+                11429.240234375
+            ],
+            "ypr": [
+                38.15828323364258,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}

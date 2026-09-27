@@ -1,0 +1,356 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Mil_Airfield_HQ",
+            "pos": [
+                8928.849609375,
+                314.40435791015627,
+                6615.20947265625
+            ],
+            "ypr": [
+                65.6596908569336,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Mil_Artilery_Rampart",
+            "pos": [
+                8943.107421875,
+                308.4404296875,
+                6606.56591796875
+            ],
+            "ypr": [
+                -116.99996185302735,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_ControlTower",
+            "pos": [
+                8813.3662109375,
+                317.4525146484375,
+                6467.2421875
+            ],
+            "ypr": [
+                179.9998779296875,
+                -3.2967491149902345,
+                -4.839083671569824
+            ],
+            "scale": 0.9982650876045227,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_Radar_Mobile3",
+            "pos": [
+                8930.939453125,
+                317.5284118652344,
+                6613.86767578125
+            ],
+            "ypr": [
+                116.99986267089844,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wreck_Mi8_Crashed",
+            "pos": [
+                8833.8095703125,
+                309.9805908203125,
+                6476.9970703125
+            ],
+            "ypr": [
+                0.0,
+                -1.0081671476364136,
+                6.751259803771973
+            ],
+            "scale": 0.9976428151130676,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_DieselPowerPlant_Tank_Small",
+            "pos": [
+                8910.1728515625,
+                313.3977966308594,
+                6564.27490234375
+            ],
+            "ypr": [
+                79.28924560546875,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wreck_T72_Turret_DE",
+            "pos": [
+                8931.0263671875,
+                309.52288818359377,
+                6600.84814453125
+            ],
+            "ypr": [
+                44.99999237060547,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_Barracks_Round",
+            "pos": [
+                8903.1416015625,
+                309.79620361328127,
+                6546.341796875
+            ],
+            "ypr": [
+                153.9157257080078,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wreck_T72_Chassis_DE",
+            "pos": [
+                8936.474609375,
+                309.4533386230469,
+                6603.50634765625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Wreck_V3S",
+            "pos": [
+                8949.5146484375,
+                310.9136657714844,
+                6567.17822265625
+            ],
+            "ypr": [
+                -116.99996185302735,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Guardhouse",
+            "pos": [
+                8893.9375,
+                309.50018310546877,
+                6560.392578125
+            ],
+            "ypr": [
+                -25.361919403076173,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_Fortified_Nest_Watchtower",
+            "pos": [
+                8904.0732421875,
+                309.5931091308594,
+                6527.4560546875
+            ],
+            "ypr": [
+                -116.99996185302735,
+                -1.8273773193359376,
+                -3.179131031036377
+            ],
+            "scale": 0.9993181824684143,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_Tent_Big1_1",
+            "pos": [
+                8908.28515625,
+                308.8367004394531,
+                6602.42529296875
+            ],
+            "ypr": [
+                62.99997329711914,
+                -0.2739904820919037,
+                1.682663917541504
+            ],
+            "scale": 0.9998523592948914,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Tisy_Base_cooler",
+            "pos": [
+                8926.3515625,
+                311.2624816894531,
+                6545.38134765625
+            ],
+            "ypr": [
+                152.99989318847657,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Roadblock_Table",
+            "pos": [
+                8904.0390625,
+                309.1258544921875,
+                6595.55419921875
+            ],
+            "ypr": [
+                -53.99999237060547,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_ATC_Big",
+            "pos": [
+                8934.2353515625,
+                324.1722412109375,
+                6567.30859375
+            ],
+            "ypr": [
+                63.89380645751953,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000001192092896,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Roadblock_WoodenCrate",
+            "pos": [
+                8903.6953125,
+                309.20782470703127,
+                6602.1318359375
+            ],
+            "ypr": [
+                -27.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_GuardTower",
+            "pos": [
+                8894.134765625,
+                316.70489501953127,
+                6628.4716796875
+            ],
+            "ypr": [
+                134.9998779296875,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Roadblock_WoodenCrate",
+            "pos": [
+                8908.5146484375,
+                319.0025329589844,
+                6565.013671875
+            ],
+            "ypr": [
+                44.99999237060547,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Roadblock_WoodenCrate",
+            "pos": [
+                8912.3173828125,
+                319.0025329589844,
+                6564.39208984375
+            ],
+            "ypr": [
+                -18.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_Fortified_Nest_Small",
+            "pos": [
+                8944.0185546875,
+                309.6388244628906,
+                6584.0185546875
+            ],
+            "ypr": [
+                153.0000762939453,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_Barracks_Round",
+            "pos": [
+                8909.0380859375,
+                309.79620361328127,
+                6549.2802734375
+            ],
+            "ypr": [
+                153.91571044921876,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}

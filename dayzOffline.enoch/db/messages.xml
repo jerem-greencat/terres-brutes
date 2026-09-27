@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+
+    <!-- Restart Message -->
+    <message>
+        <deadline>112</deadline>
+        <shutdown>0</shutdown>
+        <text>OBSIDIAN PVP | RESTART #tmin MINUTES</text>
+    </message>
+
+    <!-- Welcome / Discord -->
+    <message>
+        <delay>0</delay>
+        <repeat>30</repeat>
+        <onconnect>1</onconnect>
+        <text>OBSIDIAN PVP | BIENVENUE / WELCOME - DISCORD : discord.gg/obsidianpvp</text>
+    </message>
+
+    <!-- PvP Info -->
+    <message>
+        <delay>3</delay>
+        <repeat>45</repeat>
+        <onconnect>1</onconnect>
+        <text>OBSIDIAN PVP | SERVEUR PVP 24/7 - FULL PVP SERVER 24/7</text>
+    </message>
+
+    <!-- Raid Info -->
+    <message>
+        <delay>6</delay>
+        <repeat>60</repeat>
+        <onconnect>1</onconnect>
+        <text>OBSIDIAN PVP | RAID WK : VEN &amp; SAM 20H-00H - FRI &amp; SAT 8PM-12AM</text>
+    </message>
+
+    <!-- Whitelist / Link -->
+    <message>
+        <delay>9</delay>
+        <repeat>60</repeat>
+        <onconnect>1</onconnect>
+        <text>OBSIDIAN PVP | /LINK REQUIS - /LINK REQUIRED</text>
+    </message>
+
+    <!-- Airdrop Event -->
+    <message>
+        <delay>12</delay>
+        <repeat>50</repeat>
+        <onconnect>0</onconnect>
+        <text>OBSIDIAN PVP | SAISON 2 </text>
+    </message>
+
+</messages>

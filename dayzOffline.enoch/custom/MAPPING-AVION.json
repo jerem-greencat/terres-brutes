@@ -1,0 +1,196 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Wreck_C130J_2",
+            "pos": [
+                8498.4306640625,
+                318.9062805175781,
+                6501.2802734375
+            ],
+            "ypr": [
+                117.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Roadblock_Table",
+            "pos": [
+                8495.630859375,
+                314.7413635253906,
+                6503.796875
+            ],
+            "ypr": [
+                26.99999237060547,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Roadblock_Table",
+            "pos": [
+                8497.443359375,
+                314.7413635253906,
+                6502.87548828125
+            ],
+            "ypr": [
+                26.999990463256837,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_SupplyBox1_DE",
+            "pos": [
+                8492.8916015625,
+                314.961181640625,
+                6504.068359375
+            ],
+            "ypr": [
+                -63.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Shed_Closed2",
+            "pos": [
+                8472.2880859375,
+                314.56341552734377,
+                6505.2607421875
+            ],
+            "ypr": [
+                -90.00000762939453,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                8505.970703125,
+                314.3836364746094,
+                6486.37353515625
+            ],
+            "ypr": [
+                -27.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Wreck_Mi8_Crashed",
+            "pos": [
+                8492.1044921875,
+                316.84613037109377,
+                6498.87451171875
+            ],
+            "ypr": [
+                117.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.019999997690320016,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Wreck_Mi8_Crashed",
+            "pos": [
+                8496.7197265625,
+                316.84613037109377,
+                6507.9306640625
+            ],
+            "ypr": [
+                117.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.019999997690320016,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_Tent_Big1_1",
+            "pos": [
+                8518.0322265625,
+                313.4219055175781,
+                6509.2373046875
+            ],
+            "ypr": [
+                9.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Roadblock_WoodenCrate",
+            "pos": [
+                8498.953125,
+                314.6815490722656,
+                6499.95751953125
+            ],
+            "ypr": [
+                -63.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_Barracks_Round",
+            "pos": [
+                8483.658203125,
+                313.86962890625,
+                6529.818359375
+            ],
+            "ypr": [
+                -18.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Wreck_Uaz",
+            "pos": [
+                8525.2353515625,
+                314.4781799316406,
+                6502.77490234375
+            ],
+            "ypr": [
+                63.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}

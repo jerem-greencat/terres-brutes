@@ -1,0 +1,388 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_Misc_Chair_Camp1",
+            "pos": [
+                6041.08056640625,
+                219.6245880126953,
+                8018.841796875
+            ],
+            "ypr": [
+                135.0,
+                2.9791040420532228,
+                0.9061141014099121
+            ],
+            "scale": 0.9995077848434448,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Chair_Camp2",
+            "pos": [
+                6042.5751953125,
+                219.4272003173828,
+                8020.38037109375
+            ],
+            "ypr": [
+                -63.07106399536133,
+                -3.7317726612091066,
+                -88.31004333496094
+            ],
+            "scale": 0.999993622303009,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_House_1W06_Blue",
+            "pos": [
+                6052.90576171875,
+                220.70489501953126,
+                8215.517578125
+            ],
+            "ypr": [
+                -143.99998474121095,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_House_1W08_Blue",
+            "pos": [
+                6203.66015625,
+                215.077880859375,
+                8306.0888671875
+            ],
+            "ypr": [
+                45.32700729370117,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_House_1W04_Yellow",
+            "pos": [
+                5951.4013671875,
+                222.037841796875,
+                8016.1376953125
+            ],
+            "ypr": [
+                -144.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_House_2W01_Yellow",
+            "pos": [
+                6140.61962890625,
+                217.8667755126953,
+                8196.8427734375
+            ],
+            "ypr": [
+                -45.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_House_2W04_Yellow",
+            "pos": [
+                6169.3095703125,
+                219.04403686523438,
+                8243.8779296875
+            ],
+            "ypr": [
+                129.31373596191407,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_House_1W01_Red",
+            "pos": [
+                6267.76953125,
+                219.68409729003907,
+                8180.94482421875
+            ],
+            "ypr": [
+                -45.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Garage_Small",
+            "pos": [
+                6059.4794921875,
+                218.67762756347657,
+                8109.927734375
+            ],
+            "ypr": [
+                44.99999237060547,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Construction_House1",
+            "pos": [
+                6165.8798828125,
+                232.33645629882813,
+                8031.7705078125
+            ],
+            "ypr": [
+                -140.57342529296876,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991059303284,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_Barracks_Round",
+            "pos": [
+                6396.25927734375,
+                224.90390014648438,
+                8135.11328125
+            ],
+            "ypr": [
+                -135.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_Tent_Big1_5",
+            "pos": [
+                6053.49853515625,
+                220.0612030029297,
+                8028.9111328125
+            ],
+            "ypr": [
+                18.000001907348634,
+                1.1440213918685914,
+                -2.0367438793182375
+            ],
+            "scale": 0.9997230172157288,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_CamoNet_Roof_east",
+            "pos": [
+                6042.9296875,
+                220.17446899414063,
+                8023.26611328125
+            ],
+            "ypr": [
+                -72.00001525878906,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Roadblock_Table",
+            "pos": [
+                6039.6669921875,
+                219.44320678710938,
+                8019.5703125
+            ],
+            "ypr": [
+                90.00000762939453,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Roadblock_WoodenCrate",
+            "pos": [
+                6039.724609375,
+                219.3098907470703,
+                8020.90087890625
+            ],
+            "ypr": [
+                -90.00000762939453,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_TirePile",
+            "pos": [
+                6055.49169921875,
+                224.366943359375,
+                8011.97021484375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_metalcrate",
+            "pos": [
+                6054.6181640625,
+                220.0621795654297,
+                8024.11376953125
+            ],
+            "ypr": [
+                -72.00001525878906,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_box_c_multi",
+            "pos": [
+                6041.48974609375,
+                218.9113311767578,
+                8026.57763671875
+            ],
+            "ypr": [
+                -26.999998092651368,
+                -1.608638882637024,
+                -1.3399139642715455
+            ],
+            "scale": 0.9997773170471191,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                6056.89697265625,
+                220.6563720703125,
+                8011.39111328125
+            ],
+            "ypr": [
+                9.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Shed_M1",
+            "pos": [
+                6181.61767578125,
+                213.39659118652345,
+                8268.6064453125
+            ],
+            "ypr": [
+                -135.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999962449073792,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Shed_M3",
+            "pos": [
+                6115.0859375,
+                216.2967071533203,
+                8198.048828125
+            ],
+            "ypr": [
+                -45.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Shed_W2",
+            "pos": [
+                6062.20556640625,
+                217.61187744140626,
+                8078.0888671875
+            ],
+            "ypr": [
+                -135.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Shed_W5",
+            "pos": [
+                6238.36328125,
+                215.33982849121095,
+                8222.65625
+            ],
+            "ypr": [
+                -125.99999237060547,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Garage_Tall",
+            "pos": [
+                6174.8388671875,
+                234.48992919921876,
+                8022.20751953125
+            ],
+            "ypr": [
+                -48.379154205322269,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999992251396179,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}

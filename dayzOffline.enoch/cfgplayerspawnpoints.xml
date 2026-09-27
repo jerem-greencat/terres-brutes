@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<playerspawnpoints>
+    <fresh>
+        <spawn_params>
+            <min_dist_infected>30</min_dist_infected>
+            <max_dist_infected>70</max_dist_infected>
+            <min_dist_player>65</min_dist_player>
+            <max_dist_player>100</max_dist_player>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+        </spawn_params>
+        <generator_params>
+            <grid_density>4</grid_density>
+            <grid_width>200</grid_width>
+            <grid_height>200</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+        <group_params>
+            <enablegroups>true</enablegroups>
+            <groups_as_regular>true</groups_as_regular>
+            <lifetime>20</lifetime>
+            <counter>-1</counter>
+        </group_params>
+        <generator_posbubbles>
+            <group name="Grabin">
+                <pos x="10571" z="11256"/>
+            </group>
+            <group name="Sitnik">
+                <pos x="12108" z="9505"/>
+            </group>
+            <group name="Huta">
+                <pos x="5020" z="5389"/>
+            </group>
+            <group name="Gliniska">
+                <pos x="4764" z="9742"/>
+            </group>
+            <group name="Zapadlisko">
+                <pos x="8530" z="8723"/>
+            </group>
+            <group name="Lembork">
+                <pos x="8415" z="6921"/>
+            </group>
+            <group name="Wrzeszcz">
+                <pos x="9477" z="4586"/>
+            </group>
+            <group name="Lukow">
+                <pos x="3602" z="12273"/>
+            </group>
+            <group name="Bielawa">
+                <pos x="804" z="8623"/>
+            </group>
+            <group name="Adamo">
+                <pos x="2857" z="6888"/>
+            </group>
+            <group name="Kolembrody">
+                <pos x="8380" z="12353"/>
+            </group>
+            <group name="Zalesie">
+                <pos x="1324" z="4862"/>
+            </group>
+        </generator_posbubbles>
+    </fresh>
+</playerspawnpoints>

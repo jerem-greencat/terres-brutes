@@ -1,0 +1,532 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                3370.656494140625,
+                488.9545593261719,
+                2104.149169921875
+            ],
+            "ypr": [
+                9.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_CncBlocks_Long",
+            "pos": [
+                3434.370361328125,
+                485.7344970703125,
+                2090.9384765625
+            ],
+            "ypr": [
+                168.45164489746095,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_CncBlock",
+            "pos": [
+                3355.3740234375,
+                487.3780822753906,
+                2021.7711181640626
+            ],
+            "ypr": [
+                -44.62698745727539,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Long",
+            "pos": [
+                9050.7294921875,
+                340.6505126953125,
+                4387.3388671875
+            ],
+            "ypr": [
+                8.381471633911133,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_CncBlocks_Long",
+            "pos": [
+                3347.432861328125,
+                487.7314758300781,
+                2025.3505859375
+            ],
+            "ypr": [
+                102.23258209228516,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                9051.734375,
+                341.4277648925781,
+                4391.431640625
+            ],
+            "ypr": [
+                173.37039184570313,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_CncBlocks_Long",
+            "pos": [
+                3350.734619140625,
+                487.75396728515627,
+                2027.35791015625
+            ],
+            "ypr": [
+                18.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Pillbox",
+            "pos": [
+                9022.1669921875,
+                341.3430480957031,
+                4376.0927734375
+            ],
+            "ypr": [
+                104.8886489868164,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_CncBlocks_Long",
+            "pos": [
+                3354.115966796875,
+                487.7833557128906,
+                2029.98193359375
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Pillbox",
+            "pos": [
+                9030.623046875,
+                345.3785400390625,
+                4455.84814453125
+            ],
+            "ypr": [
+                -102.1113052368164,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_CncBlocks_Long",
+            "pos": [
+                3290.51318359375,
+                486.9541931152344,
+                2021.1185302734376
+            ],
+            "ypr": [
+                -177.93284606933595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Long",
+            "pos": [
+                9034.498046875,
+                344.2287292480469,
+                4456.05517578125
+            ],
+            "ypr": [
+                80.3814697265625,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_CncBlocks_Long",
+            "pos": [
+                3288.931640625,
+                487.3646240234375,
+                2028.690185546875
+            ],
+            "ypr": [
+                38.06715393066406,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                9029.1826171875,
+                343.8555603027344,
+                4436.15966796875
+            ],
+            "ypr": [
+                83.37041473388672,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_CncBlocks_Long",
+            "pos": [
+                3359.493896484375,
+                486.2325134277344,
+                2002.3887939453126
+            ],
+            "ypr": [
+                -98.26129913330078,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Long",
+            "pos": [
+                9027.107421875,
+                342.9793395996094,
+                4433.390625
+            ],
+            "ypr": [
+                170.3814697265625,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_CncBlocks_Long",
+            "pos": [
+                3354.55029296875,
+                486.2830505371094,
+                2003.2335205078126
+            ],
+            "ypr": [
+                -62.26130294799805,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_CncBlock",
+            "pos": [
+                9066.658203125,
+                340.03192138671877,
+                4382.7587890625
+            ],
+            "ypr": [
+                17.174556732177736,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Pillbox",
+            "pos": [
+                8427.189453125,
+                176.15402221679688,
+                11760.7412109375
+            ],
+            "ypr": [
+                63.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Long",
+            "pos": [
+                8489.04296875,
+                174.37998962402345,
+                11801.2607421875
+            ],
+            "ypr": [
+                -18.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                8491.28515625,
+                175.15548706054688,
+                11798.13671875
+            ],
+            "ypr": [
+                161.99996948242188,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_EndR",
+            "pos": [
+                8490.177734375,
+                174.98817443847657,
+                11795.609375
+            ],
+            "ypr": [
+                -135.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Long",
+            "pos": [
+                8430.3408203125,
+                175.07403564453126,
+                11762.916015625
+            ],
+            "ypr": [
+                -117.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Long",
+            "pos": [
+                8423.6962890625,
+                175.0749969482422,
+                11759.6796875
+            ],
+            "ypr": [
+                63.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_EndR",
+            "pos": [
+                8421.7138671875,
+                175.63815307617188,
+                11759.00390625
+            ],
+            "ypr": [
+                -135.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_EndL",
+            "pos": [
+                8432.0185546875,
+                175.64231872558595,
+                11764.099609375
+            ],
+            "ypr": [
+                -98.99998474121094,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Long",
+            "pos": [
+                8423.2509765625,
+                174.4683837890625,
+                11790.712890625
+            ],
+            "ypr": [
+                -90.00000762939453,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Pillbox",
+            "pos": [
+                8419.333984375,
+                175.53411865234376,
+                11790.6650390625
+            ],
+            "ypr": [
+                -107.99999237060547,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                8409.083984375,
+                174.8433380126953,
+                11840.171875
+            ],
+            "ypr": [
+                93.05291748046875,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_EndL",
+            "pos": [
+                8406.79296875,
+                174.69415283203126,
+                11838.71484375
+            ],
+            "ypr": [
+                35.06501770019531,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_EndR",
+            "pos": [
+                8411.1630859375,
+                174.66281127929688,
+                11838.41015625
+            ],
+            "ypr": [
+                144.5142364501953,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Pillbox",
+            "pos": [
+                3392.53515625,
+                487.60498046875,
+                2087.745361328125
+            ],
+            "ypr": [
+                -9.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_CncBlocks_Long",
+            "pos": [
+                3371.89404296875,
+                489.042236328125,
+                2114.3681640625
+            ],
+            "ypr": [
+                116.99996948242188,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
