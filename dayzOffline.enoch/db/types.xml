@@ -8651,7 +8651,8 @@
     </type>
     <type name="Grenade_ChemGas">
         <nominal>8</nominal>
-        <lifetime>900</lifetime>
+        <!-- Modification du lifetime des grenades POX -->
+        <lifetime>5</lifetime>
         <restock>0</restock>
         <min>8</min>
         <quantmin>-1</quantmin>
