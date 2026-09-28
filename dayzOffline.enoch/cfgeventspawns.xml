@@ -80,8 +80,53 @@
 		<pos x="5924.764648" z="5012.937988" a="24.787872" />
 		<pos x="8371.013672" z="7563.428223" a="62.508549" />
 		<pos x="5521.995605" z="4904.76416" a="46.440514" />
-		<pos x="5911.780762" z="3579.843506" a="274.124268" />
+		<!-- TERRES BRUTES : crash helico retire (fait apparaitre des zombies a cote de la base militaire de Nadbor) --><!-- <pos x="5911.780762" z="3579.843506" a="274.124268" /> -->
 	</event>
+	<!-- TERRES BRUTES : hordes de zombies. 40 emplacements possibles dans les villes et lieux d'interet (repris des points d'apparition de vehicules, sur route ou parking), tous a plus de 1,5 km de Nadbor. 15 a 25 zombies par horde -->
+	<event name="StaticInfectedHorde">
+		<zone smin="0" smax="0" dmin="15" dmax="25" r="60" />
+		<pos x="4956.69629" z="9913.737305" a="30.127554" /> <!-- ville, secteur Gliniska -->
+		<pos x="1689.447754" z="7440.379395" a="322.377319" /> <!-- zone industrielle, secteur Topolin -->
+		<pos x="6569.03418" z="11228.957032" a="328.941681" /> <!-- ville, secteur Sobotka -->
+		<pos x="1524.120727" z="9755.583985" a="275.054993" /> <!-- ville, secteur Bielawa -->
+		<pos x="10840.399414" z="11072.088868" a="323.259094" /> <!-- ville, secteur Grabin -->
+		<pos x="9254.830078" z="10865.328125" a="1.861515" /> <!-- zone industrielle, secteur Tarnow -->
+		<pos x="902.281495" z="5483.29541" a="52.07412" /> <!-- ville, secteur Zalesie -->
+		<pos x="11398.128906" z="9616.523437" a="147.502533" /> <!-- zone industrielle, secteur Sitnik -->
+		<pos x="3639.310303" z="11802.885742" a="54.817448" /> <!-- ville, secteur Lukow -->
+		<pos x="11223.21875" z="4374.235839" a="126.143837" /> <!-- ville, secteur Gieraltow -->
+		<pos x="11562.433594" z="429.821716" a="54.768456" /> <!-- ville, secteur Dolina -->
+		<pos x="5527.51" z="8727.95" a="87.20" /> <!-- site militaire, secteur Kopa -->
+		<pos x="8156.22" z="10859.54" a="270.99" /> <!-- site militaire, secteur Tarnow -->
+		<pos x="6304.627929" z="10518.238281" a="187.709595" /> <!-- ville, secteur Sobotka -->
+		<pos x="4861.78" z="7318.40" a="233.56" /> <!-- village, secteur Olsanka -->
+		<pos x="8549.829102" z="11827.362304" a="82.936493" /> <!-- village, secteur Kolembrody -->
+		<pos x="5064.254395" z="2101.189941" a="61.969681" /> <!-- site militaire, secteur Swarog -->
+		<pos x="8945.969727" z="6568.473633" a="308.632782" /> <!-- site militaire, secteur Radunin -->
+		<pos x="7825.79" z="5886.17" a="249.73" /> <!-- site militaire, secteur Radunin -->
+		<pos x="7853.63" z="9816.80" a="34.73" /> <!-- site militaire, secteur Tarnow -->
+		<pos x="3246.029053" z="5023.701172" a="39.04335" /> <!-- village, secteur Huta -->
+		<pos x="7436.975586" z="2606.200439" a="287.052490" /> <!-- site militaire, secteur Rodzanica -->
+		<pos x="5951.605957" z="8062.506348" a="297.589417" /> <!-- village, secteur Kopa -->
+		<pos x="2563.16" z="5531.76" a="55.50" /> <!-- zone industrielle, secteur Huta -->
+		<pos x="4433.10" z="6699.25" a="247.62" /> <!-- site militaire, secteur Olsanka -->
+		<pos x="5863.768066" z="6692.107422" a="285.408447" /> <!-- village, secteur Huta -->
+		<pos x="3306.067872" z="2039.649292" a="6.515387" /> <!-- village, secteur Polana -->
+		<pos x="8958.341797" z="4414.827149" a="289.849396" /> <!-- village, secteur Wrezsc -->
+		<pos x="12007.766602" z="5022.778321" a="13.888055" /> <!-- village -->
+		<pos x="10999.64" z="1954.42" a="173.75" /> <!-- site militaire, secteur Widok -->
+		<pos x="9834.345704" z="8495.504883" a="42.423515" /> <!-- site militaire, secteur Sitnik -->
+		<pos x="8156.579590" z="8717.940430" a="245.555588" /> <!-- village, secteur Zapadlisko -->
+		<pos x="5188.381836" z="5598.797851" a="68.974953" /> <!-- village, secteur Huta -->
+		<pos x="11514.818359" z="7181.469238" a="253.402359" /> <!-- zone industrielle, secteur Karlin -->
+		<pos x="1968.14" z="6678.64" a="0.00" /> <!-- village, secteur Adamow -->
+		<pos x="3150.81" z="7052.25" a="0.00" /> <!-- zone industrielle, secteur Adamow -->
+		<pos x="8909.270508" z="2074.210938" a="297.834351" /> <!-- site militaire, secteur Rodzanica -->
+		<pos x="12093.108399" z="950.517579" a="331.978943" /> <!-- ville -->
+		<pos x="9808.286133" z="3801.685303" a="358.603821" /> <!-- site militaire, secteur Gieraltow -->
+		<pos x="10641.09" z="6918.78" a="81.42" /> <!-- zone industrielle, secteur Karlin -->
+	</event>
+
     <event name="StaticPoliceCar">
 		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 		<pos x="6488.11377" z="11279.327148" a="331.097137" />
@@ -146,19 +191,19 @@
 		<pos x="4754.915039" z="7619.975098" a="251.687897" />
 		<pos x="1468.517822" z="2716.733643" a="231.112915" />
 		<pos x="9066.761719" z="5400.399414" a="22.142506" />
-		<pos x="5963.387207" z="4142.478515" a="104.18528" />
-		<pos x="6091.931153" z="4146.655273" a="346.47937" />
+		<!-- TERRES BRUTES : voiture de police retiree (zombies policiers dans Nadbor / base militaire). Evenement inactif en vanilla, retire par securite --><!-- <pos x="5963.387207" z="4142.478515" a="104.18528" /> -->
+		<!-- TERRES BRUTES : voiture de police retiree (zombies policiers dans Nadbor / base militaire). Evenement inactif en vanilla, retire par securite --><!-- <pos x="6091.931153" z="4146.655273" a="346.47937" /> -->
 		<pos x="5961.09375" z="8086.413574" a="207.500687" />
 		<pos x="4691.421875" z="6769.232422" a="5.0" />
 		<pos x="4938.001953" z="6112.402832" a="132.36528" />
 		<pos x="1639.07959" z="3734.961426" a="149.658035" />
 		<pos x="5659.581543" z="5001.757812" a="113.84787" />
-		<pos x="5905.273926" z="4089.793945" a="96.898048" />
+		<!-- TERRES BRUTES : voiture de police retiree (zombies policiers dans Nadbor / base militaire). Evenement inactif en vanilla, retire par securite --><!-- <pos x="5905.273926" z="4089.793945" a="96.898048" /> -->
 		<pos x="7310.828613" z="6355.254883" a="38.65144" />
 		<pos x="7686.911621" z="5291.974609" a="34.683426" />
 		<pos x="8777.496094" z="6521.032227" a="245.207626" />
 		<pos x="8357.493164" z="4650.103516" a="314.343323" />
-		<pos x="5700.771485" z="3985.955811" a="335.946991" />
+		<!-- TERRES BRUTES : voiture de police retiree (zombies policiers dans Nadbor / base militaire). Evenement inactif en vanilla, retire par securite --><!-- <pos x="5700.771485" z="3985.955811" a="335.946991" /> -->
 		<pos x="4953.29541" z="7884.518555" a="12.100037" />
 		<pos x="6477.730957" z="8311.992188" a="345.646576" />
 		<pos x="4687.389649" z="6763.171875" a="289.408447" />
@@ -183,7 +228,7 @@
 		<pos x="10838.117188" z="10795.390625" a="328.157898" />
 		<pos x="9499.998047" z="10365.177734" a="99.690384" />
 		<pos x="4933.42334" z="3242.112793" a="222.393036" />
-		<pos x="6278.737305" z="3935.118408" a="287.644928" />
+		<!-- TERRES BRUTES : voiture de police retiree (zombies policiers dans Nadbor / base militaire). Evenement inactif en vanilla, retire par securite --><!-- <pos x="6278.737305" z="3935.118408" a="287.644928" /> -->
 		<pos x="9030.483399" z="4407.575684" a="7.348174" />
 		<pos x="4742.245605" z="2553.421142" a="129.523972" />
 		<pos x="10533.360352" z="11103.882812" a="40.415005" />
@@ -191,7 +236,7 @@
 		<pos x="11415.549805" z="9600.212891" a="10.385423" />
 		<pos x="3368.740967" z="2086.906982" a="29.343742" />
 		<pos x="11525.344" z="9430.395" a="43.550" />
-		<pos x="5548.995605" z="3850.894775" a="138.770706" />
+		<!-- TERRES BRUTES : voiture de police retiree (zombies policiers dans Nadbor / base militaire). Evenement inactif en vanilla, retire par securite --><!-- <pos x="5548.995605" z="3850.894775" a="138.770706" /> -->
 		<pos x="11021.088867" z="9115.153321" a="252.86348" />
 		<pos x="11436.125977" z="9039.438477" a="268.147705" />
 		<pos x="9771.207031" z="8525.051758" a="46.734444" />
@@ -721,8 +766,8 @@
 		<pos x="4149.393" z="10874.596" a="0" y="215.978" group="Traffic_Lukow"/>
 		<pos x="3107.630" z="11331.740" a="0" y="270.126" group="Traffic_Lukow2"/>
 		<pos x="3415.085" z="12256.862" a="0" y="253.515" group="Traffic_Lukow3"/>
-		<pos x="6263.151" z="3938.712" a="0" y="382.438" group="Traffic_nadbor"/>
-		<pos x="5305.800" z="3676.219" a="0" y="417.766" group="Traffic_Nadbor2"/>
+		<!-- TERRES BRUTES : barrage police retire (zombies policiers dans Nadbor) --><!-- <pos x="6263.151" z="3938.712" a="0" y="382.438" group="Traffic_nadbor"/> -->
+		<!-- TERRES BRUTES : barrage police retire (zombies policiers juste a l'ouest de la base militaire) --><!-- <pos x="5305.800" z="3676.219" a="0" y="417.766" group="Traffic_Nadbor2"/> -->
 		<pos x="4602.298" z="7681.091" a="0" y="269.501" group="Traffic_Olsanka"/>
 		<pos x="3905.947" z="2211.016" a="0" y="504.465" group="Traffic_Polana"/>
 		<pos x="8312.609" z="6362.448" a="0" y="304.761" group="Traffic_Radunin"/>
